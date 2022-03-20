@@ -1,0 +1,114 @@
+body {
+	background: gainsboro;
+	overflow: auto;
+	margins:  10px;
+}
+
+h1 {
+	font-family: helvetica;
+	font-size: 70px;
+	color:  mediumgrey;
+	writing-mode: vertical-rl;
+	text-orientation: mixed;
+	position: absolute;
+	top:  132px;
+	right: 10px;
+}
+
+h2 {
+	font-family: helvetica;
+	font-size: 30px;
+}
+
+h3 {
+	font-family: helvetica;
+	font-size: 60px;
+}
+
+p{
+	font-family: helvetica;
+	font-size: 15px;
+}
+
+.square {
+	width: 100px;
+	height: 100px;
+	background: black;
+	position: absolute;
+	top: 12px;
+	right: 50px;
+}
+
+.rectangle {
+	width: 717px;
+	height: 510px;
+	background: grey;
+	opacity: 80%;
+	position: absolute;
+	top: 40px;
+	left: 219px;
+}
+
+.rectangle2 {
+	width: 677px;
+	height: 513px;
+	background: dimgray;
+	opacity: 80%;
+	position: absolute;
+	top: 183px;
+	left: 597px;
+}
+
+.rectangle3 {
+	width: 736px;
+	height: 491px;
+	background: darkgrey;
+	opacity: 80%;
+	position: absolute;
+	top: 463px;
+	left: 281px;
+}
+
+.rectangle4 {
+	width: 326px;
+	height: 1007px;
+	background: whitesmoke;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.rectangle5 {
+	width:  230px;
+	height: 300px;
+	background: grey;
+	opacity: 0%;
+	position: absolute;
+	top: 123px;
+	left: 352px;
+}
+
+.rectangle6 {
+	width:  180px;
+	height: 200px;
+	background: dimgrey;
+	opacity: 0%;
+	position: absolute;
+	top: 473px;
+	left: 1055px;
+}
+
+.rectangle7 {
+	width:  282px;
+	height: 224px;
+	background: darkgrey;
+	opacity: 0%;
+	position: absolute;
+	top: 708px;
+	left: 590px;
+}
+
+
+
+
+

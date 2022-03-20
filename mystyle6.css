@@ -1,0 +1,50 @@
+body {
+	background: gainsboro;
+	overflow: auto;
+	margin: 10px;
+}
+
+h1 {
+	font-family: helvetica;
+	font-size: 70px;
+	color:  mediumgrey;
+	writing-mode: vertical-rl;
+	text-orientation: mixed;
+	position: absolute;
+	top:  132px;
+	right: 10px;
+}
+
+h2 {
+	font-family: helvetica;
+	font-size: 30px;
+}
+
+h3 {
+	font-family: helvetica;
+	font-size: 60px;
+}
+
+p{
+	font-family: helvetica;
+	font-size: 15px;
+}
+
+
+.square {
+	width: 100px;
+	height: 100px;
+	background: black;
+	position: absolute;
+	top: 12px;
+	right: 50px;
+}
+
+.rectangle4 {
+	width: 326px;
+	height: 1007px;
+	background: whitesmoke;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}

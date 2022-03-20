@@ -1,0 +1,110 @@
+body {
+	background: gainsboro;
+	overflow: auto;
+	margin: 10px;
+}
+
+h1 {
+	font-family: helvetica;
+	font-size: 70px;
+	color:  mediumgrey;
+	writing-mode: vertical-rl;
+	text-orientation: mixed;
+	position: absolute;
+	top:  132px;
+	right: 10px;
+}
+
+h2 {
+	font-family: helvetica;
+	font-size: 30px;
+}
+
+h3 {
+	font-family: helvetica;
+	font-size: 60px;
+}
+
+p{
+	font-family: helvetica;
+	font-size: 15px;
+}
+
+.square {
+	width: 100px;
+	height: 100px;
+	background: black;
+	position: absolute;
+	top: 12px;
+	right: 50px;
+}
+
+.rectangle4 {
+	width: 326px;
+	height: 1007px;
+	background: whitesmoke;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+* {box-sizing: border-box}
+body {font-family: helvetica}
+.mySlides {display: none}
+img {vertical-align: middle;}
+.slideshow-container {
+  max-width: 1000px;
+  position: absolute;
+  top: 1200;
+  left: 350;
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
