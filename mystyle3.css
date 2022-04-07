@@ -42,7 +42,7 @@ p{
 
 .rectangle4 {
 	width: 326px;
-	height: 1771px;
+	height: 6655px;
 	background: whitesmoke;
 	position: absolute;
 	top: 0px;
@@ -52,12 +52,13 @@ p{
 .myGallery {
   display: grid;
   grid-gap: 10px;
-  grid-template-columns: repeat(max(2, 2), minmax(200px, 1fr));
+  grid-template-columns: repeat(max(3, 3), minmax(200px, 1fr));
   position: absolute;
   top: 30px;
   left: 350px;
+  right: 140px;
 }
 
 .myGallery img {
-  width: 100%;
+  width: 90%;
 }
