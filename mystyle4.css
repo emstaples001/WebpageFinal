@@ -42,9 +42,65 @@ p{
 
 .rectangle4 {
 	width: 326px;
-	height: 1007px;
+	height: 6940px;
 	background: whitesmoke;
 	position: absolute;
 	top: 0px;
 	left: 0px;
 }
+
+.boxed1 {
+	height: 398px;
+	width: 300px;
+	background: thistle;
+	padding: 15px;
+	position: absolute;
+	top: 2136px;
+	left: 1045px;
+}
+.boxed2 {
+	height: 267px;
+	width: 300px;
+	background: thistle;
+	padding: 15px;
+	position: absolute;
+	top: 2686px;
+	left: 1045px;
+}
+.boxed3 {
+	height: 137px;
+	width: 300px;
+	background: thistle;
+	padding: 15px;
+	position: absolute;
+	top: 3454px;
+	left: 1045px;
+}
+.boxed4 {
+	height: 287px;
+	width: 300px;
+	background: thistle;
+	padding: 15px;
+	position: absolute;
+	top: 4805px;
+	left: 1045px;
+}
+.boxed5 {
+	height: 737px;
+	width: 300px;
+	background: thistle;
+	padding: 15px;
+	position: absolute;
+	top: 5723px;
+	left: 1045px;
+}
+.boxed6 {
+	height: 250px;
+	width: 300px;
+	background: thistle;
+	padding: 15px;
+	position: absolute;
+	top: 6629px;
+	left: 1045px;
+}
+

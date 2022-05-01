@@ -41,11 +41,59 @@ p{
 
 .rectangle4 {
 	width: 326px;
-	height: 4257px;
+	height: 6423px;
 	background: whitesmoke;
 	position: absolute;
 	top: 0px;
 	left: 0px;
 }
 
+.boxed1 {
+	height: 305px;
+	width: 260px;
+	background: thistle;
+	padding: 15px;
+	position: absolute;
+	top: 1162px;
+	left: 992px;
+}
 
+.boxed2 {
+	height: 200px;
+	width: 260px;
+	background: thistle;
+	padding: 15px;
+	position: absolute;
+	top: 1887px;
+	left: 992px;
+}
+
+.boxed3 {
+	height: 311px;
+	width: 260px;
+	background: thistle;
+	padding: 15px;
+	position: absolute;
+	top: 2668px;
+	left: 1233px;
+}
+
+.boxed4 {
+	height: 403px;
+	width: 260px;
+	background: thistle;
+	padding: 15px;
+	position: absolute;
+	top: 5103px;
+	left: 1238px;
+}
+
+.boxed5 {
+	height: 136px;
+	width: 820px;
+	background: thistle;
+	padding: 15px;
+	position: absolute;
+	top: 6250px;
+	left: 357px;
+}

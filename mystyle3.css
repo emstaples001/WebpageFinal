@@ -42,7 +42,7 @@ p{
 
 .rectangle4 {
 	width: 326px;
-	height: 6655px;
+	height: 5843px;
 	background: whitesmoke;
 	position: absolute;
 	top: 0px;
@@ -56,9 +56,20 @@ p{
   position: absolute;
   top: 30px;
   left: 350px;
-  right: 140px;
+  right: 300px;
 }
 
 .myGallery img {
   width: 90%;
 }
+
+.boxed1 {
+	height: 540px;
+	width: 243px;
+	background: thistle;
+	padding: 15px;
+	position: absolute;
+	top: 842px;
+	right: 60px;
+}
+
